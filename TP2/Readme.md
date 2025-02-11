@@ -27,7 +27,13 @@ Pour l'affichage de cette suite, on calcule une image de $W\times H$ pixels tell
 
 1. À partir du code séquentiel `mandelbrot.py`, faire une partition équitable par bloc suivant les lignes de l'image pour distribuer le calcul sur `nbp` processus  puis rassembler l'image sur le processus zéro pour la sauvegarder. Calculer le temps d'exécution pour différents nombre de tâches et calculer le speedup. Comment interpréter les résultats obtenus ?
 
-| nombre de tâches | speedup |
+| nombre de tâches | speedup | 
+|------------------|---------|----------------
+|
+|
+|
+|
+|
 
 
 2. Réfléchissez à une meilleur répartition statique des lignes au vu de l'ensemble obtenu sur notre exemple et mettez la en œuvre. Calculer le temps d'exécution pour différents nombre de tâches et calculer le speedup et comparez avec l'ancienne répartition. Quel problème pourrait se poser avec une telle stratégie ?
