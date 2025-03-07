@@ -1,17 +1,17 @@
 Process 2 - Nombre de valeurs locales : 25
-Process 2 - Valeurs initiales : [ 19509 -16022 -13107  -6418  29049 -20964 -28140  29014   8817 -18565
-  -4938 -12075 -25633   3948 -16561 -29931  -8111 -27771 -30064  27559
- -31454  21300   -127  -1282 -20083]
-Process 2 - Valeurs triées localement : [-31454 -30064 -29931 -28140 -27771 -25633 -20964 -20083 -18565 -16561
- -16022 -13107 -12075  -8111  -6418  -4938  -1282   -127   3948   8817
-  19509  21300  27559  29014  29049]
-Process 2 - Quantiles locaux : [-31454. -20964. -12075.   3948.  29049.]
-Process 2 - Quantiles globaux après fusion : [-31535. -12171.   3948.  16220.  31567.]
-Process 2 - Bucket pour Process 0 : [np.int64(-31454), np.int64(-30064), np.int64(-29931), np.int64(-28140), np.int64(-27771), np.int64(-25633), np.int64(-20964), np.int64(-20083), np.int64(-18565), np.int64(-16561), np.int64(-16022), np.int64(-13107)]
-Process 2 - Bucket pour Process 1 : [np.int64(-12075), np.int64(-8111), np.int64(-6418), np.int64(-4938), np.int64(-1282), np.int64(-127)]
-Process 2 - Bucket pour Process 2 : [np.int64(3948), np.int64(8817)]
-Process 2 - Bucket pour Process 3 : [np.int64(19509), np.int64(21300), np.int64(27559), np.int64(29014), np.int64(29049)]
-Process 2 - Données reçues : [ 5100  8033  8190 10913 14655 15529 16036  8111  9012 13223 14545 14768
- 15403  3948  8817  7529 12350 14156 14884]
-Process 2 - Données triées finales : [ 3948  5100  7529  8033  8111  8190  8817  9012 10913 12350 13223 14156
- 14545 14655 14768 14884 15403 15529 16036]
+Process 2 - Valeurs initiales : [ 31775   2807   4494  -4274 -27716  12209 -13107  29649  -3704 -17479
+  18760  22132  21920  -8063   -931  12969  19865  20037 -22176   2906
+ -27140  12411 -14374  26736  26132]
+Process 2 - Valeurs triées localement : [-27716 -27140 -22176 -17479 -14374 -13107  -8063  -4274  -3704   -931
+   2807   2906   4494  12209  12411  12969  18760  19865  20037  21920
+  22132  26132  26736  29649  31775]
+Process 2 - Quantiles locaux : [-27716.  -8063.   4494.  20037.  31775.]
+Process 2 - Quantiles globaux après fusion : [-31928. -23084.   4494.  17463.  31997.]
+Process 2 - Bucket pour Process 0 : [np.int64(-27716), np.int64(-27140)]
+Process 2 - Bucket pour Process 1 : [np.int64(-22176), np.int64(-17479), np.int64(-14374), np.int64(-13107), np.int64(-8063), np.int64(-4274), np.int64(-3704), np.int64(-931), np.int64(2807), np.int64(2906)]
+Process 2 - Bucket pour Process 2 : [np.int64(4494), np.int64(12209), np.int64(12411), np.int64(12969)]
+Process 2 - Bucket pour Process 3 : [np.int64(18760), np.int64(19865), np.int64(20037), np.int64(21920), np.int64(22132), np.int64(26132), np.int64(26736), np.int64(29649), np.int64(31775)]
+Process 2 - Données reçues : [ 8721  9389  9860 10714 13853 14074 16980  4933  6923  8604  4494 12209
+ 12411 12969 11482 12040]
+Process 2 - Données triées finales : [ 4494  4933  6923  8604  8721  9389  9860 10714 11482 12040 12209 12411
+ 12969 13853 14074 16980]
